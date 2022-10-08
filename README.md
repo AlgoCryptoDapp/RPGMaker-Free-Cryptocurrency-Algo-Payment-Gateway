@@ -67,9 +67,11 @@ Send 1 token (token address:"0xFA9A0930D919657b00e208631c836B404B2da729") to "0x
 
 
 safeTransferFrom( "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1","0xb6A4c1C0af091aFFff0E7d4D8E09f2e400286e34","0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",2 )
+
+<br>
 Newest Video totorial:
 https://www.youtube.com/watch?v=LouoiSSDxSM
-
+<br>
 
 <img src="https://github.com/AlgoCryptoDapp/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/1.png" alt="eth">
 <img src="https://github.com/AlgoCryptoDapp/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/2.png" alt="eth">
