@@ -42,7 +42,7 @@ RPGmaker crypto payment1
 ``ownerOf(TokenID,NFTContractAddress)``
 
 ``ownerOf(3,"0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1")``
-3 is tokenID, "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1" is ERC721 token address
+<br>3 is tokenID, "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1" is ERC721 token address
 
 
 
@@ -50,7 +50,7 @@ RPGmaker crypto payment1
 ``SendBaseCoin(SendToAddress,SendAmount,GetGameCoins)``
 
 ``SendBaseCoin(  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",0.01,1000 )``
-Send 0.01 ETH/BNB/matic to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",and get 1000 Game Coins.
+<br>Send 0.01 ETH/BNB/matic to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",and get 1000 Game Coins.
 
 
 
@@ -58,7 +58,7 @@ Send 0.01 ETH/BNB/matic to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",and get 
 ``SendERC20(TokenAddress,TokenDecimals,SendAmount,SendTo,GetGameCoins)``
 
 ``SendERC20( "0xFA9A0930D919657b00e208631c836B404B2da729",18,1,"0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",1000 )``
-Send 1 token (token address:"0xFA9A0930D919657b00e208631c836B404B2da729") to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f" ,and get 1000 Game Coins.
+<br>Send 1 token (token address:"0xFA9A0930D919657b00e208631c836B404B2da729") to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f" ,and get 1000 Game Coins.
 
 
 
